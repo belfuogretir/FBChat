@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430650964085",
+    "firebase_url": "https://fbchat-f4003.firebaseio.com",
+    "project_id": "fbchat-f4003",
+    "storage_bucket": "fbchat-f4003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430650964085:android:0f0ae1147d62b3b0",
+        "android_client_info": {
+          "package_name": "com.example.belfu.fbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430650964085-1oa4ieva998pcr2dltgaa4kltoo5lgkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.belfu.fbchat",
+            "certificate_hash": "6a2a141b95a42842eb23c6d6f499bc3d78f5e16d"
+          }
+        },
+        {
+          "client_id": "430650964085-cuhjch3krc0vpm39b53a4vd9drdo8ug8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDROzoLcb3Q3wIfwioKI1a3WeVTjC98AbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430650964085-cuhjch3krc0vpm39b53a4vd9drdo8ug8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
